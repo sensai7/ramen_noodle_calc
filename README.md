@@ -2,4 +2,5 @@
 This site is published at https://sensai7.github.io/ramen_noodle_calc/
 
 # Android App
-TBD
+
+https://play.google.com/store/apps/details?id=com.gonya707.noodlecalc
