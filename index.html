@@ -37,12 +37,17 @@
         width: 100vw;
         height: 100vh;
         display: flex;
+        flex-direction: column;
         justify-content: center;
         align-items: center;
       }
       .indicator{
         background-color: #FFF7DE;
         width: 15vw;
+      }
+      .text{
+      color:#340606;
+      font-family: Helvetica, sans-serif;
       }
 
   </style>
@@ -52,7 +57,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '346905966';
+    var serviceWorkerVersion = '3324821267';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -61,6 +66,7 @@
 
   <div id="loading_indicator" class="container">
     <img class="indicator" src="./assets/ramen_animated.gif"/>
+    <b class="text">Loading...</b>
   </div>
 
 
