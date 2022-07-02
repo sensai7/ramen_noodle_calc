@@ -1,11 +1,11 @@
 {
-    "name": "ramen_noodle_calc",
-    "short_name": "ramen_noodle_calc",
+    "name": "Ramen Noodle Calculator",
+    "short_name": "Noodle Calculator",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#FFF7DE",
+    "theme_color": "#FFF7DE",
+    "description": "Ramen Noodle Calculator",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
